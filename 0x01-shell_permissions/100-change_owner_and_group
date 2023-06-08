@@ -1,0 +1,2 @@
+#!/bin/bash
+file . * -exec chown vincent chgrp staff {} +
