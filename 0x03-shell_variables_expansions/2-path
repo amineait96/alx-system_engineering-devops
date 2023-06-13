@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/action"$PATH 
+rxport PATH="$PATH:/action"
